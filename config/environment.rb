@@ -6,4 +6,3 @@ require_relative '../lib/concerns2/memorable'
 
 require_relative '../lib/artist.rb'
 require_relative '../lib/song.rb'
-
